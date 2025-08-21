@@ -1,0 +1,23 @@
+{
+  "name": "ai-model-benchmark",
+  "version": "1.0.0",
+  "description": "AI model benchmarking tool using OpenRouter",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "benchmark": "node src/benchmark.js",
+    "test": "node src/test.js",
+    "report": "node src/generate-report.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "chalk": "^5.3.0",
+    "cli-table3": "^0.6.3",
+    "ora": "^7.0.1"
+  },
+  "keywords": ["ai", "benchmark", "openrouter", "models"],
+  "author": "",
+  "license": "MIT"
+} 
