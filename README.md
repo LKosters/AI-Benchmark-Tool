@@ -11,14 +11,6 @@ A Node.js tool for benchmarking AI models using OpenRouter API. Compare performa
 - 🎨 Beautiful CLI output with tables and colors
 - 🔧 Easy configuration and customization
 
-## Supported Models
-
-- **OpenAI**: GPT-4, GPT-3.5 Turbo
-- **Anthropic**: Claude 3 Opus, Claude 3 Sonnet
-- **Google**: Gemini Pro
-- **Meta**: Llama 2 70B
-- And many more via OpenRouter
-
 ## Setup
 
 1. **Clone and install dependencies:**
